@@ -35,12 +35,12 @@ bash prework.sh
 
 We split the lab into multiple parts:
 
-[a relative link](Part1.md)Part 1 - Storage in Kubernetes  - Overview
+[Part 1 - Storage in Kubernetes  - Overview](Part1.md)
 
-[a relative link](Part2.md)Part 2 - Storage in Kubernetes - Deep-dive
+[Part 2 - Storage in Kubernetes - Deep-dive](Part2.md)
 
-[a relative link](Part3.md)Part 3 - Snapshots & Clones, Consumption Control
+[Part 3 - Snapshots & Clones, Consumption Control](Part3.md)
 
-[a relative link](Bonus.md)Bonus - Backup & Restore with Astra Control
+[Bonus - Backup & Restore with Astra Control](Bonus.md)
 
 

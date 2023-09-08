@@ -1,6 +1,6 @@
-## Hands-on Part 1
+# Hands-on Part 1
 
-# :trident: Scenario 01 - storage classes, persistent volumes & persistent volume claims 
+## :trident: Scenario 01 - storage classes, persistent volumes & persistent volume claims 
 ____
 **Remember: All required files are in the folder */home/user/hands-on/scenario01* please ensure that you are in this folder now. You can do this with the command** 
 ```console
@@ -290,7 +290,7 @@ In my example, Pac-Man recieved the external IP 192.168.0.216. This IP adress ma
 
 Have some fun, create some highscore, we will need that in a later lab.
 
-# :trident: Scenario 02 - running out of space? Let's expand the volume 
+## :trident: Scenario 02 - running out of space? Let's expand the volume 
 ____
 **Remember: All required files are in the folder */home/user/hands-on/scenario02* please ensure that you are in this folder now. You can do this with the command** 
 ```console

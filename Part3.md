@@ -1,6 +1,6 @@
-## Hands-on Part 3
+# Hands-on Part 3
 
-# :trident: Scenario 05 -  snapshots, clones etc 
+## :trident: Scenario 05 -  snapshots, clones etc 
 ___
 **Remember: All required files are in the folder */home/user/hands-on/scenario05*. Please ensure that you are in this folder. You can do this with the command** 
 ```console
@@ -163,7 +163,7 @@ Now, a little clean up at the end:
 kubectl delete ns busybox
 ```
 
-# :trident: Scenario 06 - Consumption control 
+## :trident: Scenario 06 - Consumption control 
 ___
 **Remember: All required files are in the folder */home/user/hands-on/scenario06*. Please ensure that you are in this folder. You can do this with the command**
 ```console
@@ -287,7 +287,7 @@ Now that we have create a 2Gi limit, let's try to create a 5Gi volume...
 kubectl apply -n control -f pvc-5Gi-1.yaml
 ```
 
-Magical, right? By the way, the NetApp Trident CSI driver from this lab has a similar parameter called _limitVolumeSize_ that controls the maximum capacity of a PVC per Trident Backend. As we told you: sometimes there are multiple ways to achieve the same result. 
+Magical, right?  
 
 # :trident: Scenario 05 - Protect& Recover your application with Astra Control Center 
 ___
