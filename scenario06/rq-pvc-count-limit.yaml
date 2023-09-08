@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: pvc-count-limit
+spec:
+  hard:
+    persistentvolumeclaims: "5"
+    sc-nas-svm1.storageclass.storage.k8s.io/persistentvolumeclaims: "3"

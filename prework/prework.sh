@@ -144,7 +144,7 @@ echo "ADD NEW TRIDENT BACKENDS & SC ON RKE1"
 echo "#######################################################################################################"
 echo
 
-cd /home/user/kompaktlivelab23/prework/
+cd /home/user/hands-on/prework/
 
 rke1
 tridentctl -n trident create backend -f rke1_trident_svm1_san_backend.json
